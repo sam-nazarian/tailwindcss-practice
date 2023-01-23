@@ -1,0 +1,22 @@
+{
+  "name": "tailwindcss-practice",
+  "version": "1.0.0",
+  "description": "TailWindCss-Practice",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samanfathnazarian/tailwindcss-practice.git"
+  },
+  "author": "Saman Fathnazarian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samanfathnazarian/tailwindcss-practice/issues"
+  },
+  "homepage": "https://github.com/samanfathnazarian/tailwindcss-practice#readme",
+  "dependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
